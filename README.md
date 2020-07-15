@@ -1,4 +1,4 @@
-# animation_text
+# Animation Text
 
 ## animation text CSS UI Created By NorthFox Developers
 
